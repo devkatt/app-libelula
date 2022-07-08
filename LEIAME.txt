@@ -38,6 +38,8 @@ Tarefas:
             git push heroku master
 
         heroku config:set PGSSLMODE=no-verify --app api-backend-ifal
+        
+        ok
 
 
 
